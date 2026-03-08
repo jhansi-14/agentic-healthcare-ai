@@ -10,7 +10,7 @@ This repository contains a comprehensive AI agent solution for healthcare that l
 
 The system implements specialized medical AI agents that work together to provide comprehensive patient care, clinical decision support, and healthcare workflow automation while maintaining HIPAA compliance and FHIR interoperability.
 
-## 🏥 Architecture Overview
+## 🏥 architecture-overview
 
 ### System Components
 
