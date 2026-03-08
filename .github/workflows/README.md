@@ -2,7 +2,7 @@
 
 This directory contains GitHub Actions workflows for automated building, testing, and deployment of the Healthcare AI Agents to three major cloud platforms.
 
-## 🚀 Available Workflows
+## 🚀 Available-Workflows
 
 ### 1. [deploy-gcp.yml](./deploy-gcp.yml) - Google Cloud Platform
 - **Triggers**: Push to `main`/`develop`, Pull Requests, Manual dispatch
